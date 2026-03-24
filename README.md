@@ -46,11 +46,17 @@ API:
  # 📂 Project Structure
 
 Weather_app/
-│── index.html        # Main HTML file
-│── style.css         # Styling file
-│── script.js         # JavaScript logic & API calls
-│── assets/           # Images, icons
+
+│── index.html  
+
+│── style.css
+
+│── script.js 
+
+│── assets/  
+
 └── README.md
+
 
  # 🚀 Getting Started
 🔧 Prerequisites
