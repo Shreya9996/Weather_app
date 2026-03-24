@@ -52,6 +52,7 @@ Weather_app/
 │── assets/           # Images, icons
 └── README.md
 
+
 🚀 Getting Started
 🔧 Prerequisites
 Web Browser (Chrome, Edge, etc.)
@@ -60,7 +61,7 @@ Weather API Key (e.g., OpenWeather)
 
 📥 Installation
 Clone the repository
-git clone https://github.com/yourusername/Weather_app.git
+git clone
 cd Weather_app
 Open index.html in your browser
 OR use Live Server in VS Code.
@@ -77,7 +78,7 @@ API returns weather data in JSON format
 Data is displayed dynamically on UI
 
 🔌 API Example
-https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY&units=metric
+
 📊 Future Enhancements
 7-day weather forecast
 Hourly weather updates
