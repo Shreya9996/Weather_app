@@ -1,8 +1,8 @@
-🌦️ Weather App - Real-Time Weather Forecast Platform
+ # 🌦️ Weather App - Real-Time Weather Forecast Platform
 
 Weather App is a simple and responsive web application that provides real-time weather updates for any city worldwide. It allows users to check current weather conditions, temperature, humidity, and more using an external weather API.
 
-✨ Features
+ # ✨ Features
 👤 For Users
 
 🔍 City-Based Search
@@ -32,7 +32,7 @@ Fetches live data using a weather API (like OpenWeather API).
 📱 Mobile Friendly
 
 Fully responsive design for mobile, tablet, and desktop.
-🛠️ Technology Stack
+ # 🛠️ Technology Stack
 
 Frontend:
 
@@ -42,8 +42,8 @@ JavaScript (Vanilla JS)
 
 API:
 
-OpenWeather API (or any weather API)
-📂 Project Structure
+
+ # 📂 Project Structure
 
 Weather_app/
 │── index.html        # Main HTML file
@@ -53,31 +53,32 @@ Weather_app/
 └── README.md
 
 
-🚀 Getting Started
+ # 🚀 Getting Started
 🔧 Prerequisites
 Web Browser (Chrome, Edge, etc.)
 Internet Connection
 Weather API Key (e.g., OpenWeather)
 
-📥 Installation
+ # 📥 Installation
 Clone the repository
 git clone
 cd Weather_app
 Open index.html in your browser
 OR use Live Server in VS Code.
-🔑 API Setup
+
+# 🔑 API Setup
 Go to OpenWeather website
 Generate your API key
 Replace it in script.js:
 const apiKey = "your_api_key_here";
 
-▶️ How It Works
+# ▶️ How It Works
 User enters a city name
 JavaScript sends request to weather API
 API returns weather data in JSON format
 Data is displayed dynamically on UI
 
-🔌 API Example
+# 🔌 API Example
 
 📊 Future Enhancements
 7-day weather forecast
@@ -85,14 +86,15 @@ Hourly weather updates
 Dark/Light mode toggle
 Save favorite cities
 Voice search feature
-🤝 Contributing
+
+# 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
 
 
-📬 Contact & Support
+# 📬 Contact & Support
 
 For queries, feature requests, or issues, reach out at:
 
