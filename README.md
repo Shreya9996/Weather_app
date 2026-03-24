@@ -89,3 +89,14 @@ Voice search feature
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
+
+
+
+📬 Contact & Support
+
+For queries, feature requests, or issues, reach out at:
+
+📧 Email: shreyapatil9681@gmail.com
+
+🔥 Star this repo if you find it useful! 🚀
+
