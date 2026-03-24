@@ -52,7 +52,6 @@ Weather_app/
 │── assets/           # Images, icons
 └── README.md
 
-
  # 🚀 Getting Started
 🔧 Prerequisites
 Web Browser (Chrome, Edge, etc.)
